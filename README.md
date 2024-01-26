@@ -38,6 +38,8 @@ To rebuild the the .exe file in the dist folder, run the below (after replacing 
 
 When an appointment is found, it will make some windows sounds, and will either stop there or book the appointment, if you ask it to book.
 
+PS: Do note that you have to force the application to close after it finds an appointment. You can do this by terminating the application or closing the opened browser. Always remember to close any opened browser before running another one.
+
 Happy hunting :)
 
 
