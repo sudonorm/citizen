@@ -1,0 +1,15 @@
+beautifulsoup4
+PyQt6
+pyqt6-plugins
+PyQt6-Qt6
+PyQt6-sip
+pyqt6-tools
+python-dotenv
+qt6-applications
+qt6-tools
+requests
+selenium
+urllib3
+webdriver-manager
+pyinstaller
+psutil
